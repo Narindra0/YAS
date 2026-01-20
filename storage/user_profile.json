@@ -1,0 +1,59 @@
+{
+  "utilisateur": {
+    "nom": "Narindra RANJALAHY",
+    "numero": "0341171113",
+    "numero_cin": "101234567890",
+    "email": "Narindraranjal4hy@gmail.com",
+    "code_secret_mvola": "1234"
+  },
+  "soldes": {
+    "mvola": 43300,
+    "compte_principal": 9200,
+    "epargne": 150000,
+    "validite_credit": "25/02/2026"
+  },
+  "offres": [
+    {
+      "nom": "Ye'low 2000",
+      "categorie": "YELLOW",
+      "expiration": "09/03/2026 23:59",
+      "consommables": {
+        "data": "450 Mo",
+        "sms": "0",
+        "appels": null
+      },
+      "is_shared_balance": true
+    }
+  ],
+  "parametres": {
+    "internet_active": true,
+    "offre_actuelle": "TOKANA",
+    "langue": "FR"
+  },
+  "historique": [
+    {
+      "date": "19/01/2026 01:56",
+      "type": "ACHAT_OFFRE_MVOLA",
+      "details": "Achat M'ora 500 via MVola",
+      "montant": -500
+    },
+    {
+      "date": "19/01/2026 02:01",
+      "type": "RECHARGE",
+      "details": "Recharge crédit 2000 Ar pour 0341131221",
+      "montant": -2000
+    },
+    {
+      "date": "21/01/2026 02:01",
+      "type": "RECHARGE",
+      "details": "Recharge 2000",
+      "montant": -2000
+    },
+    {
+      "date": "21/01/2026 02:41",
+      "type": "ACHAT",
+      "details": "Offre Ye'low 2000",
+      "montant": -2000
+    }
+  ]
+}
