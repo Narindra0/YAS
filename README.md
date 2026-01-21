@@ -158,14 +158,6 @@ python main.py
 - Sauvegarde automatique après chaque action critique
 - Prévention des incohérences de données
 
----
-
-## 📈 Roadmap
-
-- [ ] Migration SQLite (multi-utilisateurs)
-- [ ] Tableau de bord statistiques
-- [ ] Interface administrateur opérateur
-- [ ] Simulation réseau USSD en temps réel
 
 ---
 
